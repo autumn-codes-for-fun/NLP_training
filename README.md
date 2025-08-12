@@ -12,4 +12,5 @@ Ces programmes peuvent être copiés collés dans l'IDE Jupyter ou bien executer
 •🧠 Mini vocabulaire (dictionnaire unique)
 •🪪 Index inversé
 ## Fichiers
--jours_par_mois.py contient un code très basique pour transformer 2 listes en en dictionnaire ou la clé  est le mois et la valeur le nombre de jours
+-jours_par_mois.py contient un code très basique pour transformer 2 listes en un dictionnaire ou la clé  est le mois et la valeur le nombre de jours
+-Compteurmots.py nettoie un texte de sa ponctuation avec le module string puis affiche le nombre de mot dans ce texte
